@@ -1,0 +1,15 @@
+C:\Users\ricobr1652\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ricobr1652\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\bin\Debug\TriangleCalc.exe
+C:\Users\ricobr1652\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\bin\Debug\TriangleCalc.pdb
+C:\Users\ricobr1652\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\obj\x86\Debug\TriangleCalc.exe
+C:\Users\ricobr1652\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\obj\x86\Debug\TriangleCalc.pdb
+C:\Users\8bitviking\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\bin\Debug\TriangleCalc.exe
+C:\Users\8bitviking\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\bin\Debug\TriangleCalc.pdb
+C:\Users\8bitviking\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\8bitviking\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\obj\x86\Debug\TriangleCalc.exe
+C:\Users\8bitviking\Documents\SharpDevelop Projects\CourseProject\TriangleCalc\obj\x86\Debug\TriangleCalc.pdb
+C:\Users\8bitviking\Google Drive\School stuff\PROGRAMMING\CIS214 C#\Course Project\CourseProject\TriangleCalc (1)\bin\Debug\TriangleCalc.exe
+C:\Users\8bitviking\Google Drive\School stuff\PROGRAMMING\CIS214 C#\Course Project\CourseProject\TriangleCalc (1)\bin\Debug\TriangleCalc.pdb
+C:\Users\8bitviking\Google Drive\School stuff\PROGRAMMING\CIS214 C#\Course Project\CourseProject\TriangleCalc (1)\obj\x86\Debug\TriangleCalc.exe
+C:\Users\8bitviking\Google Drive\School stuff\PROGRAMMING\CIS214 C#\Course Project\CourseProject\TriangleCalc (1)\obj\x86\Debug\TriangleCalc.pdb
+C:\Users\8bitviking\Google Drive\School stuff\PROGRAMMING\CIS214 C#\Course Project\CourseProject\TriangleCalc (1)\obj\x86\Debug\TriangleCalc.csprojResolveAssemblyReference.cache
